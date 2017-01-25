@@ -10,7 +10,7 @@ Let's just get a few guidelines and obligatory no-no's out of the way first.
 ---
 
 ## Rules and Guidelines
-1. If you have a bug to report, make sure it hasn't already been reported or is in the "Known Bugs" section of this readme. Use the search button. 
+1. If you have a bug to report, make sure it hasn't already been reported or is in the "Known Bugs and Issues" section of this readme. Use the search button. 
 
 2. Refrain from profanity and swearing in your bug reports.
 
@@ -18,11 +18,11 @@ Let's just get a few guidelines and obligatory no-no's out of the way first.
 
 4. The same applies to glitches or general bugs; please include steps to replicate the issue and we will take a look at it from there.
 
-5. If your issue is something the support team can handle, and not the developers, _do not post it here_. Contact our support through our [Discord chat.](https://discord.gg/kXytCYS) or through our email at support@opdessertstorm.com. Thank you.
+5. If your issue is something the support team can handle, and not the developers, _do not post it here_! Contact our support through our [Discord chat.](https://discord.gg/kXytCYS) or through our email at support@opdessertstorm.com. Thank you.
 
 ---
 
-## Known bugs and issues
+## Known Bugs and Issues
 
 > - Crashing in the gag shop
 > - Not waiting for a Cog to join a battle in a building will make you freeze
